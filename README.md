@@ -31,17 +31,17 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [TG Bots Updates](https://telegram.dog/Tsz)
+* [InFoTel Paid Apps](https://telegram.dog/l14)
+* [InFoTel Group](https://telegram.dog/oup)
 
 ## Credits, and Thanks to
 
-* [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+* [@SpEcHlDe](https://telegram.dog/) for his [AnyDLBot](https://telegram.dog/t)
+* [Dan Tès](https://telegram.dog/) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [Yoily](https://telegram.dog/) for his [UploaditBot](https://telegram.dog/)
 
-- For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/InFoTelGroup)
+- For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/)
 
 #### LICENSE
 - GPLv3
